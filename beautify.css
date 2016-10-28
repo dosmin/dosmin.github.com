@@ -1,0 +1,57 @@
+#chellimiller_calculatorWrapper {
+	font-family:     "Trebuchet MS", Helvetica, sans-serif;
+	text-align:      center;
+	border-style:    dotted;
+	border-width:    1px;
+	border-color:    #000000;
+	padding:         10px;
+	width:           500px;
+}
+
+#chellimiller_calculatorWrapper h1 {
+	color:           #FF0538;
+	font-weight:     bold;
+	font-size:       150%;
+}
+
+#chellimiller_calculatorWrapper table {
+	border:           none;
+	width:            50%;
+	margin-left:      25%;
+	margin-right:     25%;
+	margin-bottom:    15px;
+	margin-top:       15px;
+}
+#chellimiller_calculatorWrapper td {
+	padding:          10px;
+}
+#chellimiller_calculatorWrapper .cs441p1_tleft {
+	font-weight:      bold;
+	text-align:       right;
+	width:            25%;
+}
+#chellimiller_calculatorWrapper .cs441p1_tright {
+	text-align:       left;
+}
+
+#chellimiller_calculatorWrapper button {
+	background-color: #000000;
+	border:           none;
+	min-width:        20%;
+	padding:          5px;
+	margin:           5px;
+	color:            #FFFFFF;
+	font-weight:      bold;
+}
+
+#chellimiller_calculatorWrapper a {
+	color:            #FF0538;
+	font-weight:      bold;
+	text-decoration:  none;
+}
+#chellimiller_calculatorWrapper a:hover {
+	color:            #000000;
+}
+#chellimiller_calcOutput {
+	padding:          20px;
+}
