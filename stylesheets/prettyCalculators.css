@@ -25,12 +25,12 @@
 #chellimiller_calculatorWrapper td {
 	padding:          10px;
 }
-#chellimiller_calculatorWrapper .cs441p1_tleft {
+#chellimiller_calculatorWrapper .chellimiller_tdleft {
 	font-weight:      bold;
 	text-align:       right;
 	width:            25%;
 }
-#chellimiller_calculatorWrapper .cs441p1_tright {
+#chellimiller_calculatorWrapper .chellimiller_tdright {
 	text-align:       left;
 }
 
